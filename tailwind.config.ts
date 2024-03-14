@@ -7,7 +7,7 @@ const config: Config = {
         extend: {
             colors: {
                 dark: darkBackground || "#a55651",
-                gray: "#656565",
+                gray: "#3b8aaa",
             },
         },
     },
