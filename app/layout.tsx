@@ -7,8 +7,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Lotse",
-    description: "Minimalistic dark mode blogging template",
+    title: "Lotse-Neško",
+    description: "Minimalistički blog-templejt  Minimalistic dark mode blogging template",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
