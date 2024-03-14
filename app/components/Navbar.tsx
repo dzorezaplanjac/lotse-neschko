@@ -4,13 +4,13 @@ import Link from "next/link";
 
 const navItems = {
   "/": {
-    name: "home",
+    name: "Početna",
   },
   "/projects": {
-    name: "projects",
+    name: "projekti",
   },
   "/about": {
-    name: "about",
+    name: "O sajtu",
   },
 };
 
