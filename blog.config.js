@@ -1,5 +1,5 @@
 const CONFIG = {
-    title: "Lotse",
+    title: "Lotse-neschko",
     baseURL: "https://neschko.netlify.app/",
     darkBackground: "#1a1a1a",
 };
